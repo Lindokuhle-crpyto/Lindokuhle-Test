@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Lindokuhle-crpyto/Lindokuhle-Test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+<p1> <h2>Natural elements</h2>
 
-### Markdown
+<ul>
+  <li>Water</li>
+  <li>Air</li>
+  <li>Fire</li>
+</ul>  
+</p1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p2><h2>Three major forms of muscular dystrophy:</h2>
 
-```markdown
-Syntax highlighted code block
+<ol>
+  <li>Mytonic</li>
+  <li>Duchene</li>
+  <li>Becker</li>
+</ol> 
+</p2>
 
-# Header 1
-## Header 2
-### Header 3
+<p3><h1>Definition of Muscular dystrophy</h1>
 
-- Bulleted
-- List
+<p>a hereditary condition marked by progressive weakening and wasting of the muscles.</p>
+</p3>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lindokuhle-crpyto/Lindokuhle-Test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
